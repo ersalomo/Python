@@ -1,6 +1,3 @@
-from re import A
-
-
 class Karyawan:
     nama_perusahaan = 'PT. Bersama Kita Hebat'
     insentif_lembur = 250000
