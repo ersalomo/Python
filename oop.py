@@ -1,5 +1,3 @@
-from re import A
-
 
 class Karyawan:
     nama_perusahaan = 'PT. Bersama Kita Hebat'
