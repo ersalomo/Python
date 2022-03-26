@@ -1,7 +1,3 @@
-
-from types import ClassMethodDescriptorType
-
-
 class Karyawan:
     nama_perusahaan = 'PT. Bersama Kita Hebat'
     insentif_lembur = 250000
